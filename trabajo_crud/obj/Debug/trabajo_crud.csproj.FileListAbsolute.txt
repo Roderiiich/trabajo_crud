@@ -1,0 +1,12 @@
+C:\Users\Roderich\source\repos\trabajo_crud\trabajo_crud\bin\Debug\trabajo_crud.exe.config
+C:\Users\Roderich\source\repos\trabajo_crud\trabajo_crud\bin\Debug\trabajo_crud.exe
+C:\Users\Roderich\source\repos\trabajo_crud\trabajo_crud\bin\Debug\trabajo_crud.pdb
+C:\Users\Roderich\source\repos\trabajo_crud\trabajo_crud\obj\Debug\trabajo_crud.csproj.AssemblyReference.cache
+C:\Users\Roderich\source\repos\trabajo_crud\trabajo_crud\obj\Debug\trabajo_crud.Form1.resources
+C:\Users\Roderich\source\repos\trabajo_crud\trabajo_crud\obj\Debug\trabajo_crud.InicioForm.resources
+C:\Users\Roderich\source\repos\trabajo_crud\trabajo_crud\obj\Debug\trabajo_crud.PrincipalForm.resources
+C:\Users\Roderich\source\repos\trabajo_crud\trabajo_crud\obj\Debug\trabajo_crud.Properties.Resources.resources
+C:\Users\Roderich\source\repos\trabajo_crud\trabajo_crud\obj\Debug\trabajo_crud.csproj.GenerateResource.cache
+C:\Users\Roderich\source\repos\trabajo_crud\trabajo_crud\obj\Debug\trabajo_crud.csproj.CoreCompileInputs.cache
+C:\Users\Roderich\source\repos\trabajo_crud\trabajo_crud\obj\Debug\trabajo_crud.exe
+C:\Users\Roderich\source\repos\trabajo_crud\trabajo_crud\obj\Debug\trabajo_crud.pdb

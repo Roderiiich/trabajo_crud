@@ -1,0 +1,6 @@
+C:\Users\Roderich\source\repos\trabajo_crud\AlumnosBOL\bin\Debug\AlumnosBOL.dll
+C:\Users\Roderich\source\repos\trabajo_crud\AlumnosBOL\bin\Debug\AlumnosBOL.pdb
+C:\Users\Roderich\source\repos\trabajo_crud\AlumnosBOL\obj\Debug\AlumnosBOL.csproj.AssemblyReference.cache
+C:\Users\Roderich\source\repos\trabajo_crud\AlumnosBOL\obj\Debug\AlumnosBOL.csproj.CoreCompileInputs.cache
+C:\Users\Roderich\source\repos\trabajo_crud\AlumnosBOL\obj\Debug\AlumnosBOL.dll
+C:\Users\Roderich\source\repos\trabajo_crud\AlumnosBOL\obj\Debug\AlumnosBOL.pdb

@@ -1,0 +1,11 @@
+C:\Users\Roderich\source\repos\trabajo_crud\AlumnosBL\bin\Debug\AlumnosBL.dll
+C:\Users\Roderich\source\repos\trabajo_crud\AlumnosBL\bin\Debug\AlumnosBL.pdb
+C:\Users\Roderich\source\repos\trabajo_crud\AlumnosBL\bin\Debug\AlumnosBOL.dll
+C:\Users\Roderich\source\repos\trabajo_crud\AlumnosBL\bin\Debug\AlumnosDAL.dll
+C:\Users\Roderich\source\repos\trabajo_crud\AlumnosBL\bin\Debug\AlumnosBOL.pdb
+C:\Users\Roderich\source\repos\trabajo_crud\AlumnosBL\bin\Debug\AlumnosDAL.pdb
+C:\Users\Roderich\source\repos\trabajo_crud\AlumnosBL\obj\Debug\AlumnosBL.csproj.AssemblyReference.cache
+C:\Users\Roderich\source\repos\trabajo_crud\AlumnosBL\obj\Debug\AlumnosBL.csproj.CoreCompileInputs.cache
+C:\Users\Roderich\source\repos\trabajo_crud\AlumnosBL\obj\Debug\AlumnosBL.csproj.Up2Date
+C:\Users\Roderich\source\repos\trabajo_crud\AlumnosBL\obj\Debug\AlumnosBL.dll
+C:\Users\Roderich\source\repos\trabajo_crud\AlumnosBL\obj\Debug\AlumnosBL.pdb
